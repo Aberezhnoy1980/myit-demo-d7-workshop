@@ -1,0 +1,127 @@
+[
+  {
+    "name": "workshop 360: layout/resources",
+    "ok": true,
+    "detail": "{\"overflow\":false,\"tables\":[],\"hero\":730.515625}"
+  },
+  {
+    "name": "sample 360: layout/resources",
+    "ok": true,
+    "detail": "{\"overflow\":false,\"tables\":[[328,328,328]],\"hero\":667.8125}"
+  },
+  {
+    "name": "table 360",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "workshop 390: layout/resources",
+    "ok": true,
+    "detail": "{\"overflow\":false,\"tables\":[],\"hero\":642.3125}"
+  },
+  {
+    "name": "sample 390: layout/resources",
+    "ok": true,
+    "detail": "{\"overflow\":false,\"tables\":[[358,358,358]],\"hero\":667.8125}"
+  },
+  {
+    "name": "table 390",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "workshop 768: layout/resources",
+    "ok": true,
+    "detail": "{\"overflow\":false,\"tables\":[],\"hero\":579.84375}"
+  },
+  {
+    "name": "sample 768: layout/resources",
+    "ok": true,
+    "detail": "{\"overflow\":false,\"tables\":[[736,736,736]],\"hero\":584.4375}"
+  },
+  {
+    "name": "workshop 1440: layout/resources",
+    "ok": true,
+    "detail": "{\"overflow\":false,\"tables\":[],\"hero\":500.90625}"
+  },
+  {
+    "name": "sample 1440: layout/resources",
+    "ok": true,
+    "detail": "{\"overflow\":false,\"tables\":[[1152,1152,1152]],\"hero\":429.921875}"
+  },
+  {
+    "name": "Tab focus visible",
+    "ok": true,
+    "detail": "<a class=\"skip\" href=\"#content\">К содержанию</a>"
+  },
+  {
+    "name": "real Enter submits",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "button focus visible",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "button Enter replay",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "stale result ignored: transport",
+    "ok": true,
+    "detail": "Поля изменились. Прежний ответ не показывается. Заявка не отправлена."
+  },
+  {
+    "name": "stale result ignored: note",
+    "ok": true,
+    "detail": "Поля изменились. Прежний ответ не показывается. Заявка не отправлена."
+  },
+  {
+    "name": "stale result ignored: persona",
+    "ok": true,
+    "detail": "Поля изменились. Прежний ответ не показывается. Заявка не отправлена."
+  },
+  {
+    "name": "stale result ignored: closed",
+    "ok": true,
+    "detail": "Регистрация на демонстрацию закрыта. Заявка не отправлялась."
+  },
+  {
+    "name": "empty invalid",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "invalid focuses summary",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "refusal",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "pending disabled",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "local result",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "calendar 40min",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "lesson no JS",
+    "ok": true,
+    "detail": ""
+  }
+]
