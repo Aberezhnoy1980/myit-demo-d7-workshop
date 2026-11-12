@@ -3,7 +3,7 @@ import { gzipSync } from 'node:zlib';
 import { resolve } from 'node:path';
 
 const root = resolve('build');
-const pages = ['index.html', 'workshop/index.html', 'sample/index.html'];
+const pages = ['index.html', 'razbor/index.html', 'praktikum/index.html'];
 
 function urlsFrom(file, text) {
 	const found = new Set();

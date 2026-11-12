@@ -5,8 +5,3 @@
 
 <a class="skip" href="#content">К содержанию</a>
 {@render children()}
-<footer class="site-footer">
-	<p>
-		Демонстрация. Мероприятие не назначено.
-	</p>
-</footer>

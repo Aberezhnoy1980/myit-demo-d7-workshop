@@ -1,6 +1,6 @@
 import { resolve } from '$app/paths';
 
-type PagePath = '/' | '/workshop' | '/sample';
+type PagePath = '/' | '/razbor' | '/praktikum';
 
 /** Ссылка на пререндеренный каталог: у статического хоста нужен завершающий слэш. */
 export function page(path: PagePath): string {
