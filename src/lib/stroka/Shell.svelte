@@ -9,7 +9,6 @@
 <div class="s-page">
 	<div class="s-demo">
 		<p class="s-wrap">
-			<strong>Демо-режим.</strong>
 			<span class="s-demo-long">Школа «Строка» и практикум вымышлены, записаться нельзя. Пробный разбор работает полностью.</span>
 			<span class="s-demo-short">Школа и практикум вымышлены, записаться нельзя.</span>
 		</p>

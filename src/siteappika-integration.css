@@ -1,0 +1,3 @@
+/* Только размещение шапки и якорей; оформление полосы — в общем CSS. */
+.s-head{position:sticky;top:var(--siteappika-bar-height);z-index:20;background:var(--s-paper)}
+html{scroll-padding-top:calc(var(--siteappika-bar-height) + 116px)}
